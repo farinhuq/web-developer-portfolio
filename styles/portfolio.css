@@ -54,3 +54,8 @@ margin: 130px 0px;}
   font-size: 18px;
   text-align: center;
 }
+main{ max-width: 1140px;
+margin: 0px auto;}
+.aboutinfo-container {display: flex;
+justify-content: space-around;}
+.aboutinfo{text-align: center;}
